@@ -18,7 +18,7 @@ organizations:
   url: "https://www.psbbmillenniumschool.org/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My interests include data science, app development and video production.
+#bio:
 
 interests:
 - Data Science
@@ -31,12 +31,12 @@ interests:
 education:
   courses:
   - course: Higher Secondary (CBSE XII)
-    institution: PSBB Learning Leadership Academy
+    institution: PSBB Learning Leadership Academy, Bangalore
     year: 2019-21
 
   - course:  Secondary (CBSE X)
-    institution: Global Indian International School
-    year: 2018-19
+    institution: Global Indian International School, Singapore
+    year: 2016-19
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
