@@ -48,6 +48,7 @@ date_format = "2006"
   along with one-to-one interviews with multiple doctors and researchers.
 
   Got a hands-on experience with :-
+  -  CPR Training
   -  Radiology
   -  Working of X-Rays
   -  MRI scans and CT scans
@@ -57,7 +58,7 @@ date_format = "2006"
   -  General Nutrition
 
   More -
-  - [**Few Photos**](https://drive.google.com/drive/folders/1J-2TLR8K6RCuCJaN_rNG2jOo4R9plsKG?usp=sharing)
+  - [**Gallery**](https://drive.google.com/drive/folders/1J-2TLR8K6RCuCJaN_rNG2jOo4R9plsKG?usp=sharing)
 
 
   """
@@ -69,12 +70,12 @@ date_format = "2006"
   location = "Singapore"
   date_start = "2017-01-01"
   date_end = "2018-12-31"
-  description = """Got the opportunity to be the 'Prefect' for my school as part of the 'Student Council'
+  description = """Got the opportunity to be the 'Prefect' for my school as part of the 'Student Council'.
 
   My responsibilities included :-
   - Maintaining discipline amongst students
   - Helping teachers and staff members with various tasks
-  - Guiding primary students to their respective business
+  - Guiding primary students to their respective buses/transportation
   - Making sure students returned to their classes after breaks
   - Maintaining cleanliness and sanitation across the campus
 
@@ -90,13 +91,13 @@ date_format = "2006"
   date_start = "2018-01-01"
   date_end = "2019-12-31"
   description = """Sold household items as part of a relocation and successfully
-  managed to sell all potential items within a profitable margin
+  managed to sell all potential items within a profitable margin.
 
   Gained immense knowledge on :-
   - how the digital marketplace works
   - the various aspects of negotiations and deals
   - the need for digital awareness and cyber-safety
-  - the importance online presence as a 15 y/o """
+  - the importance of online presence as a 15 y/o """
 
 [[experience]]
   title = "Entrepreneurship Co-op Club"
