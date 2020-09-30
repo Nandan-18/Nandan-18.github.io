@@ -2,4 +2,4 @@ My personal Website !
 
 hosted at 
 
-![](https://nandan18.netlift.app0
+![](https://nandan18.netlift.app)
