@@ -79,13 +79,13 @@ date_format = "Jan 2006"
       description = "Completed the Python 101 for Data Science course by IBM on Cognitive Classes and passed the final exam successfully by implementing the knowledge gained."
 
 [[item]]
-      organization = "PSBB LLA"
+      organization = "PSBB LLA Panorama"
       organization_url = "https://llapanorama.wixsite.com/home"
       certificate_url = "https://drive.google.com/file/d/1uU_zPcnNOTXO-18y1kKMKsbyIzz76nnJ/view?usp=sharing"
       title = "LLA Hackathon"
       date_start = "2020-10-09"
       date_end = "2020-10-10"
-      description = "Came third place in a coding competition, where participants were to solve 10 extremely tricky problems within just 20 minutes."
+      description = "Came third place in an intense coding competition, where participants were to solve 10 extremely tricky problems within just 20 minutes."
 
 
 
