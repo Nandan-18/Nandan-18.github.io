@@ -51,6 +51,16 @@ subtitle = ""
     icon_pack = "custom"
     name = "Python"
 
+[[feature]]
+  icon = "html"
+  icon_pack = "custom"
+  name = "HTML"
+
+[[feature]]
+  icon = "pycharm"
+  icon_pack = "custom"
+  name = "PyCharm IDE"
+
   [[feature]]
   icon = "atom"
   icon_pack = "custom"
@@ -140,7 +150,9 @@ subtitle = ""
     [[feature]]
      icon = "carousell"
      icon_pack = "custom"
-     name = "Carousell SG"  
+     name = "Carousell SG"
+
+
 
 
 
