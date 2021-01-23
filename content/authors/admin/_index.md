@@ -21,10 +21,8 @@ organizations:
 #bio:
 
 interests:
-- Data Science
 - Computer Hardware
-- 3D Printing
-- Data Analytics
+- Artificial Intelligence
 - Video Production
 
 
