@@ -2,7 +2,7 @@
   command = "hugo"
   base    = "exampleSite"
   publish = "exampleSite/public"
-# --gc --minify -b $URL --themesDir ../../
+
 [build.environment]
   HUGO_THEME = "repo"
   HUGO_VERSION = "0.71.1"
