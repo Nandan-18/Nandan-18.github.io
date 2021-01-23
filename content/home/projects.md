@@ -1,4 +1,3 @@
-<script data-ad-client="ca-pub-6353380909348330" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 +++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
