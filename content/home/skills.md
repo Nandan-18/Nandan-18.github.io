@@ -57,6 +57,11 @@ subtitle = ""
   name = "HTML"
 
 [[feature]]
+    icon = "mysql"
+    icon_pack = "custom"
+    name = "SQL"
+
+[[feature]]
   icon = "pycharm"
   icon_pack = "custom"
   name = "PyCharm IDE"
@@ -66,10 +71,10 @@ subtitle = ""
   icon_pack = "custom"
   name = "Atom IDE"
 
-  [[feature]]
-    icon = "sql"
+[[feature]]
+    icon = "github"
     icon_pack = "custom"
-    name = "SQL"
+    name = "GitHub"
 
     [[feature]]
       icon = "camera-retro"
