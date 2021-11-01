@@ -30,7 +30,7 @@ education:
   courses:
   - course: Bachelor's Degree, Computing Science
     institution: University of Alberta
-    year: 2021-2025
+    #year: 2021-2025
   - course: Higher Secondary (CBSE XII)
     institution: PSBB Learning Leadership Academy, Bangalore
     year: 2019-21
