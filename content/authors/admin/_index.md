@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: High School Student
+role: University Student
 
 # Organizations/Affiliations
 organizations:
-- name: PSBB Learning Leadership Academy
-  url: "https://www.psbbmillenniumschool.org/"
+- name: University of Alberta
+  url: "https://www.ualberta.ca/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
 
-interests:
-- Computer Hardware
-- Artificial Intelligence
-- Video Production
+#interests:
+#- Computer Hardware
+#- Artificial Intelligence
+#- Video Production
 
 
 education:
