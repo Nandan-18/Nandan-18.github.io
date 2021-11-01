@@ -28,6 +28,9 @@ organizations:
 
 education:
   courses:
+  - course: Bachelor's Degree, Computing Science
+    institution: University of Alberta
+    year: 2021-2025
   - course: Higher Secondary (CBSE XII)
     institution: PSBB Learning Leadership Academy, Bangalore
     year: 2019-21
@@ -51,7 +54,7 @@ social:
 
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/nandan1804/
+  link: https://www.instagram.com/le_nan_18/
 
 - icon: twitter
   icon_pack: fab
