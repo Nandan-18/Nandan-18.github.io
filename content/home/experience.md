@@ -18,6 +18,7 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
 [[experience]]
   title = "Student Mentor"
   company = "UniRely"
@@ -34,6 +35,17 @@ date_format = "2006"
   * Researching on said university and providing valuable information
   """
 
+
+[[experience]]
+  title = "Video Editor"
+  company = "The Uncut Team"
+  company_url = "https://www.theuncutteam.com/"
+  location = "Bangalore, India"
+  date_start = "2021-05-15"
+  date_end = "2021-08-30"
+  description = """Uncut is a student organization with an aim to educate the youth and facilitating conversations between them on topics ranging from governmental policies to economics, current events and mental health. Uncut aims to provide a unique platform for people to learn and deliberate in form of Parliamentary Debates, Webinars, Research Articles, Quizzes regarding current Events and even interviews.
+  """
+ 
 [[experience]]
   title = "Founder"
   company = "Palakkad Maami Recipes"
@@ -53,6 +65,7 @@ date_format = "2006"
   More -
   - [**With over 300,000 views**](https://www.youtube.com/c/PalakkadMaamiRecipes/about)
   """
+
 
 [[experience]]
   title = "Medical Student Intern"
@@ -79,6 +92,7 @@ date_format = "2006"
 
 
   """
+
 
 [[experience]]
   title = "Student Prefect"
@@ -115,6 +129,7 @@ date_format = "2006"
   - the various aspects of negotiations and deals
   - the need for digital awareness and cyber-safety
   - the importance of online presence as a 15 y/o """
+
 
 [[experience]]
   title = "Entrepreneurship Co-op Club"
