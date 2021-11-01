@@ -16,7 +16,7 @@
 theme = "custom"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -114,7 +114,7 @@ contact_links = [
   {icon = "linkedin", icon_pack = "fab", name = "Connect With Me", link = "https://www.linkedin.com/in/nandanramesh/"},
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/nandan13341052"},
   {icon = "facebook", icon_pack = "fab", name = "Reach Out", link = "https://www.facebook.com/nandan.ramesh.1069"},
-  {icon = "instagram", icon_pack = "fab", name = "DM Me", link = "https://www.instagram.com/nandan1804/"},
+  {icon = "instagram", icon_pack = "fab", name = "DM Me", link = "https://www.instagram.com/le_nan_18/"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 

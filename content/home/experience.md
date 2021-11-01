@@ -17,6 +17,23 @@ date_format = "2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Student Mentor"
+  company = "UniRely"
+  company_url = "https://unirely.com/"
+  date_start = "2021-09-20"
+  description = """An opportunity to guide students in their application process to their potential universities.
+
+  My Responsibilities include :-
+
+  * General guidance regarding application process
+  * Helping with doubts related to the process on a one-to-one basis
+  * Brainstorming for essays and supplements ideas
+  * Helping the student with edits on his/her university specific essays/supplements
+  * Researching on said university and providing valuable information
+  """
+
 [[experience]]
   title = "Founder"
   company = "Palakkad Maami Recipes"
@@ -34,7 +51,7 @@ date_format = "2006"
   * Social Media Management
 
   More -
-  - [**With over 200,000 views**](https://www.youtube.com/c/PalakkadMaamiRecipes/about)
+  - [**With over 300,000 views**](https://www.youtube.com/c/PalakkadMaamiRecipes/about)
   """
 
 [[experience]]
