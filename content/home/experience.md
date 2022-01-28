@@ -45,13 +45,13 @@ date_format = "2006"
   date_end = "2021-08-30"
   description = """Uncut is a student organization with an aim to educate the youth and facilitating conversations between them on topics ranging from governmental policies to economics, current events and mental health. Uncut aims to provide a unique platform for people to learn and deliberate in form of Parliamentary Debates, Webinars, Research Articles, Quizzes regarding current Events and even interviews.
   
-I was a part of the content creation team aimed at spreading awareness on COVID-19.
+I was a part of the content creation team aimed at spreading public awareness on COVID-19.
 
-My work included -
+My work included :-
 
-• Creating engaging and creative videos, reels and teasers for the public.
-• Spreading awareness on COVID-19 resources on social media platforms.
-• Brought in over 15000 viewers through successful implementation of team ideas.
+ * Creating engaging and creative videos, reels and teasers for the public.
+ * Spreading awareness on COVID-19 resources on social media platforms.
+ * Brought in over 15000 viewers through successful implementation of team ideas.
   """
  
 [[experience]]
